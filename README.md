@@ -1,10 +1,7 @@
-# BinX-Tech-AI-ML-Internship-week-1
 # BinX Tech AI & Machine Learning Internship
+# BinX-Tech-AI-ML-Internship-week-1
 
-This repository contains my work, notes, and projects
-during the BinX Tech AI/ML Internship (400 hours).
-
-## Week 1 - Python & Data Science Foundations
+#Week 1 - Python & Data Science Foundations
 
 Topics:
 - Python Environment Setup
