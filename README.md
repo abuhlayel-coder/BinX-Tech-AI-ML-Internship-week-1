@@ -1,0 +1,1 @@
+# BinX-Tech-AI-ML-Internship-week-1
