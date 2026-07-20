@@ -35,6 +35,8 @@ Topics:
 - Functions
 - List Comprehensions
 - Object-Oriented Programming (OOP) Basics
+
+
 Completed:
 
 - Learned Python data types (int, float, string, bool, list, tuple, dictionary, set)
