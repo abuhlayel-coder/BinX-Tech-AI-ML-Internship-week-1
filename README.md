@@ -50,7 +50,26 @@ Completed:
 
 
 # Day 3 Progress
-...
+Topics:
+- NumPy array creation
+- Array attributes, indexing & slicing
+- Vectorized operations & boolean masking
+- Broadcasting
+
+
+Completed:
+
+- Learned why NumPy underpins the AI/ML stack (fast, homogeneous arrays vs. Python lists)
+- Created arrays using np.array, np.zeros, np.ones, np.arange, np.linspace, and np.random.rand
+- Practiced inspecting arrays with .shape, .dtype, and .ndim
+- Indexed and sliced 1D and 2D arrays, including extracting specific rows and columns
+- Used vectorized operations (+, -, *, /) and built-in methods (.sum, .mean, .max, .min) instead of loops
+- Applied boolean masking to filter array values by condition
+- Learned and applied broadcasting to combine arrays of different but compatible shapes
+- Completed the NumPy Array Manipulation hands-on lab 
+- Added Markdown documentation to explain each notebook section
+- Committed Day 3 work to GitHub
+
 
 # Day 4 Progress
 ...
