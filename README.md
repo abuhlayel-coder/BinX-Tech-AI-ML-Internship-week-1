@@ -72,7 +72,26 @@ Completed:
 
 
 # Day 4 Progress
-...
+
+Topics:
+- Pandas: Series vs. DataFrame
+- Loading and Inspecting Data (read_csv, head, info, describe)
+- Selecting and Filtering (columns, boolean filtering, .loc/.iloc)
+- Cleaning Data (missing values, duplicates, type conversion)
+- Grouping and Aggregation (groupby, agg)
+
+Completed:
+
+- Loaded the Titanic dataset into a DataFrame and inspected its shape, columns, and dtypes
+- Selected columns and filtered rows using boolean conditions and .loc
+- Counted and handled missing values (age, embarked, embark_town) with documented justification for each choice
+- Dropped the deck column due to excessive missingness, and removed duplicate rows
+- Filtered to a meaningful subset (female passengers in 1st/2nd class) and interpreted the survival rate difference
+- Used groupby to compute survival rate by class and sex, and interpreted the pattern
+- Added Markdown documentation explaining each step and finding
+- Committed Day 4 notebook and dataset to GitHub
+
 
 # Day 5 Progress
+
 ...
