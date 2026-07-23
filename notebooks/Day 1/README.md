@@ -20,4 +20,4 @@ Set up a reproducible Python environment for AI/ML development and got Jupyter N
 - Created and ran the first Jupyter notebook, verifying all libraries import correctly
 - Uploaded the project to GitHub
 
-**Notebook:** [`day1_environment.ipynb.ipynb`](./day1_environment.ipynb)
+**Notebook:** [`day1_environment.ipynb.ipynb`](./day1_environment.ipynb.ipynb)
